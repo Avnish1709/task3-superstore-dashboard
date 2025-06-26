@@ -43,7 +43,7 @@ Design an interactive dashboard using Power BI that helps business stakeholders 
 ## 🖼️ Screenshots
 
 > 📌 Interactive Power BI dashboard with slicers and charts  
-> *(Screenshots folder contains all images)*
+> [Dashboard Screenshot](dashboard screenshot.png)
 
 ---
 
