@@ -42,7 +42,7 @@ Design an interactive dashboard using Power BI that helps business stakeholders 
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot]
+! [Dashboard Screenshot]
 (dashboard_screenshot.png)
 ---
 
